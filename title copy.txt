@@ -1,0 +1,20 @@
+https://gitlab.com/pianomanfrazier/pandoc-markdown-book/
+---
+title: Opinionated Guide to React
+subtitle: It Depends
+author: Sara Vieira
+subject: "markdown"
+keywords: [books,programming.react]
+language: en-US
+cover-image: img/example-book-cover.png
+lof: true
+lof-own-page: true
+toc-own-page: true
+titlepage: false
+titlepage-background: backgrounds/background10.pdf
+titlepage-text-color: "333333"
+titlepage-rule-color: "00737C"
+papersize: letter
+prepend-titlepage: img/example-book-cover.pdf
+colorlinks: true
+---
